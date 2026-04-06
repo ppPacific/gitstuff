@@ -1,0 +1,21 @@
+{
+  "name": "learninggit",
+  "version": "1.0.0",
+  "description": "I add this from feat-a",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppPacific/gitstuff.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppPacific/gitstuff/issues"
+  },
+  "homepage": "https://github.com/ppPacific/gitstuff#readme"
+}
